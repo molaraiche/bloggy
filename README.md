@@ -32,7 +32,7 @@ install server:
 https://bloggy.mohamedlaraiche.com/
 
 
-## Authors
+## Author
 
 - [MOA](https://www.mohamedlaraiche.com)
 
