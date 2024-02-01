@@ -34,4 +34,4 @@ https://bloggy.mohamedlaraiche.com/
 
 ## Author
 
-- [MOA](https://www.mohamedlaraiche.com)
+[MOA](https://www.mohamedlaraiche.com)
