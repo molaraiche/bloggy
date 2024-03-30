@@ -29,9 +29,9 @@ install server:
 
 ## Demo
 
-https://bloggy.mohamedlaraiche.com/
+https://bloggy.molaraiche.com/
 
 
 ## Author
 
-[MOA](https://www.mohamedlaraiche.com)
+[MOA](https://www.molaraiche.com)
