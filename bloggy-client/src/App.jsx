@@ -16,7 +16,7 @@ const App = () => {
     getData();
   }, []);
   return (
-    <main className="container">
+    <main className='container'>
       <Header />
       <BloggyRoutes blogs={blogs} />
     </main>
