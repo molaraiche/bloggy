@@ -29,7 +29,7 @@ const EditBlog = ({ id, title, content, image }) => {
       console.log('upadted !');
       swal('Blog get Updated');
       setTimeout(() => {
-        window.location.replace('https://bloggy.mohamedlaraiche.com/');
+        window.location.replace("https://bloggy.molaraiche.com/");
       }, 2000);
     } catch (error) {
       console.log(error.message);

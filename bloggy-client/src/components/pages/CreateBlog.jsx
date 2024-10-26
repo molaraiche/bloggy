@@ -28,7 +28,7 @@ const CreateBlog = () => {
       setTitle('');
       setContent('');
       setImage('');
-      window.location.replace('https://bloggy.mohamedlaraiche.com/');
+      window.location.replace("https://bloggy.molaraiche.com/");
     } catch (error) {
       console.log(error.message);
     }
