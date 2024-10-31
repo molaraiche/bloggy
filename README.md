@@ -34,8 +34,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## ✨ Features
 
-If your project has a lot of features, list them here.
-
 - Basic CRUD Functionality for Blog Posts: Users can create, read, update, and delete blog posts, with a straightforward and intuitive interface for managing content.
 - Image Upload Using Multer: Allows users to upload images along with their blog posts, enhancing the visual appeal of the content. The app utilizes Multer for handling image uploads securely.
 - Responsive Design: Basic responsive design techniques are employed to ensure that the app works well on different devices, such as mobile, tablet, and desktop.
