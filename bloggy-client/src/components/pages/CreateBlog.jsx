@@ -17,7 +17,7 @@ const CreateBlog = () => {
     formData.append('image', image);
     try {
       await axios.post(
-        'https://bloggy-api-xjtx.onrender.com/api/bloggy/create',
+        'https://bloggy-api-ten.vercel.app/api/bloggy/create',
         formData,
         {
           headers: { 'Content-Type': 'multipart/formdata' },

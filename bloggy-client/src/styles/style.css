@@ -454,16 +454,6 @@ header nav a {
   gap: 10px
 }
 
-.loaderHolder p {
-  font-weight: 600;
-  text-transform: uppercase;
-}
-
-.render {
-  margin-left: 5px;
-  color: var(--mainColor);
-}
-
 @keyframes l18-0 {
 
   0%,

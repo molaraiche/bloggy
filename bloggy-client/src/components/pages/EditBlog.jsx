@@ -18,7 +18,7 @@ const EditBlog = ({ id, title, content, image }) => {
     formData.append('image', newImage);
     try {
       const response = await axios.put(
-        `https://bloggy-api-xjtx.onrender.com/api/bloggy/${id}`,
+        `https://bloggy-api-ten.vercel.app/api/bloggy/${id}`,
         formData,
         {
           headers: { 'Content-Type': 'multipart/form-data' },

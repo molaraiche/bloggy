@@ -7,7 +7,7 @@ const App = () => {
   const [blogs, setBlogs] = useState([]);
   const getData = async () => {
     const response = await axios.get(
-      "https://bloggy-api-xjtx.onrender.com/api/bloggy"
+      "https://bloggy-api-ten.vercel.app/api/bloggy"
     );
     const data = await response.data;
     setBlogs(data.response);
